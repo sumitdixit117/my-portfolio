@@ -2,6 +2,9 @@ import React from 'react'
 import "./portfolio.css"
 import IMG1 from "../assets/portfolio1.jpg"
 import IMG2 from "../assets/portfolio2.jpg"
+import IMG3 from "../assets/portfolio3.jpg"
+import IMG4 from "../assets/portfolio4.jpg"
+import IMG5 from "../assets/portfolio5.jpg"
 
 const data = [
   {
@@ -14,10 +17,31 @@ const data = [
   {
     id: 2,
     image: IMG2,
+    title: 'Whatsapp Chat Analyser',
+    github: 'https://github.com/sumitdixit117/chat-analyzer',
+    demo: 'https://chat-analyzer-shashwat.onrender.com/'
+  },
+  {
+    id: 3,
+    image: IMG3,
     title: 'Keeper App',
     github: 'https://github.com/sumitdixit117/keeper-app',
     demo: 'https://sumitdixit117.github.io/keeper-app/'
-  }
+  },
+  {
+    id: 4,
+    image: IMG4,
+    title: 'ToDo List',
+    github: 'https://github.com/sumitdixit117/ToDo-List',
+    demo: 'https://todo-list-shashwat.onrender.com'
+  },
+  {
+    id: 5,
+    image: IMG5,
+    title: 'Daily Journal',
+    github: 'https://github.com/sumitdixit117/Daily-Journal',
+    demo: 'https://daily-journal-shashwat.onrender.com'
+  },
 ]
 
 const Portfolio = () => {
