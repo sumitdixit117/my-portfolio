@@ -11,7 +11,7 @@ const Services = () => {
       <div className='container services__container'>
         <article className='service'>
           <div className='service__head'>
-            <h3>CS Subjects</h3>
+            <h3>Academics</h3>
           </div>
           <ul className='service__list'>
             <li>
@@ -67,7 +67,7 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p><a href='https://olympus.mygreatlearning.com/courses/12628/certificate' target='_blank' rel="noreferrer">Great Learning Introduction to Cyber Security</a></p>
+              <p><a href='https://www.credly.com/badges/099f3c90-8b04-461c-bbd1-69809563732e/public_url' target='_blank' rel="noreferrer">AWS Cloud Quest: Cloud Practitioner</a></p>
             </li>
           </ul>
         </article>
