@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.e4b221a4.css",
-    "main.js": "/my-portfolio/static/js/main.c94bacc6.js",
+    "main.css": "/my-portfolio/static/css/main.a1b8c783.css",
+    "main.js": "/my-portfolio/static/js/main.e51e2c62.js",
     "static/media/portfolio5.jpg": "/my-portfolio/static/media/portfolio5.ba07d2b77f5dda3a1c0e.jpg",
     "static/media/portfolio3.jpg": "/my-portfolio/static/media/portfolio3.788e2639087547017bb2.jpg",
     "static/media/portfolio2.jpg": "/my-portfolio/static/media/portfolio2.caa781d65e868bff730f.jpg",
     "static/media/portfolio4.jpg": "/my-portfolio/static/media/portfolio4.79d9a1c2b9cc40aa736c.jpg",
+    "static/media/me.jpg": "/my-portfolio/static/media/me.e765e2dc1cf314430586.jpg",
     "static/media/me-about.jpg": "/my-portfolio/static/media/me-about.66210afc7998eea11886.jpg",
     "static/media/portfolio1.jpg": "/my-portfolio/static/media/portfolio1.54af8448d526e3a1863b.jpg",
-    "static/media/me.jpg": "/my-portfolio/static/media/me.e23e9d83c64490b552f2.jpg",
-    "static/media/Resume.pdf": "/my-portfolio/static/media/Resume.32f1ee1ee12b5b9bc739.pdf",
+    "static/media/Resume.pdf": "/my-portfolio/static/media/Resume.1a81cd215e8914c629df.pdf",
     "index.html": "/my-portfolio/index.html",
-    "main.e4b221a4.css.map": "/my-portfolio/static/css/main.e4b221a4.css.map",
-    "main.c94bacc6.js.map": "/my-portfolio/static/js/main.c94bacc6.js.map"
+    "main.a1b8c783.css.map": "/my-portfolio/static/css/main.a1b8c783.css.map",
+    "main.e51e2c62.js.map": "/my-portfolio/static/js/main.e51e2c62.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4b221a4.css",
-    "static/js/main.c94bacc6.js"
+    "static/css/main.a1b8c783.css",
+    "static/js/main.e51e2c62.js"
   ]
 }
