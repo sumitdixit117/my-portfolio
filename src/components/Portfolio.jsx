@@ -31,9 +31,9 @@ const data = [
   {
     id: 4,
     image: IMG4,
-    title: 'ToDo List',
-    github: 'https://github.com/sumitdixit117/ToDo-List',
-    demo: 'https://todo-list-shashwat.onrender.com'
+    title: 'To Do List',
+    github: 'https://github.com/sumitdixit117/todo_list_app',
+    demo: 'https://sumitdixit117.github.io/todo_list_app/'
   },
   {
     id: 5,
