@@ -5,6 +5,8 @@ import IMG2 from "../assets/portfolio2.jpg"
 import IMG3 from "../assets/portfolio3.jpg"
 import IMG4 from "../assets/portfolio4.jpg"
 import IMG5 from "../assets/portfolio5.jpg"
+import IMG6 from "../assets/portfolio6.jpg"
+import IMG7 from "../assets/portfolio7.jpg"
 
 const data = [
   {
@@ -24,20 +26,34 @@ const data = [
   {
     id: 3,
     image: IMG3,
+    title: 'Lyrics Finder',
+    github: 'https://github.com/sumitdixit117/lyrics_finder',
+    demo: '#'
+  },
+  {
+    id: 4,
+    image: IMG4,
     title: 'Keeper App',
     github: 'https://github.com/sumitdixit117/keeper-app',
     demo: 'https://sumitdixit117.github.io/keeper-app/'
   },
   {
-    id: 4,
-    image: IMG4,
+    id: 5,
+    image: IMG5,
     title: 'To Do List',
     github: 'https://github.com/sumitdixit117/todo_list_app',
     demo: 'https://sumitdixit117.github.io/todo_list_app/'
   },
   {
-    id: 5,
-    image: IMG5,
+    id: 6,
+    image: IMG6,
+    title: 'Weather App',
+    github: 'https://github.com/sumitdixit117/weather_app',
+    demo: '#'
+  },
+  {
+    id: 7,
+    image: IMG7,
     title: 'Daily Journal',
     github: 'https://github.com/sumitdixit117/Daily-Journal',
     demo: 'https://daily-journal-shashwat.onrender.com'
