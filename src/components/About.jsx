@@ -36,11 +36,10 @@ const About = () => {
           </div>
 
           <p>
-            Hi there, Here is Shashwat Dixit, final year student pursuing
-            Bachelor's degree in Computer Science at Vellore Institute of
-            Technology
-            <br />
-            Vellore Campus.
+            Hi there, this is Shashwat Dixit, recently joined Gramener as a Data Science Engineer, with a B.Tech
+            degree in Computer Science and Engineering from VIT Vellore,
+            bringing a fresh perspective and strong technical skills to the
+            team.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
